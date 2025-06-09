@@ -1,0 +1,17 @@
+[
+    {
+        "list": [2, 5, 7, 8, 11, 12],
+        "target": 11,
+        "expected": 4
+    },
+    {
+        "list": [2, 5, 7, 8, 11, 12],
+        "target": 13,
+        "expected": null
+    },
+    {
+        "list": [],
+        "target": 7,
+        "expected": null
+    }
+]
